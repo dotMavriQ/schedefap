@@ -4,6 +4,8 @@
 ## Description
 This PowerShell script, `schedefap.ps1`, is designed to help automate the process of switching the default web browser on Windows systems based on the time and day of the week. It's particularly useful for those who prefer to use different browsers for work and personal use.
 
+![img](https://repository-images.githubusercontent.com/717408934/7506bb54-70f2-407f-b35e-695faa77e8f3)
+
 ## Features
 - Automatically opens the Default Apps settings to prompt for a browser switch.
 - Customizable schedule for browser switching (default is set to switch to Microsoft Edge during work hours and Firefox Developer Edition during off-hours and weekends).
